@@ -1,8 +1,8 @@
 import Image from 'next/image'
 // import styles from './page.module.css'
 
-export default function HomePage() {
+export default function AboutPage() {
   return (
-    <h1>Esta es mi app con midudev</h1>
+    <h1>Estas en About</h1>
   )
 }
